@@ -1,4 +1,4 @@
-Time Series Forecasting with XGBoost and Prophet
+# Time Series Forecasting with XGBoost and Prophet
 
 This repository contains implementations for forecasting time series data using two powerful approaches: XGBoost and Prophet. Our projects focus on energy consumption forecasting using the PJME hourly energy dataset, showcasing different methodologies to tackle time series prediction challenges.
 
